@@ -3,4 +3,4 @@ this repository contains simple programs like searching algorithms, basic python
 
 program 1
 
-the first program is about python into method.
+the first program is about python init method.
