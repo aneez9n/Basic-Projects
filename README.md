@@ -5,3 +5,5 @@ This repository contains simple programs like searching algorithms, basic python
 
 The first program is about python init method.
 added exception handling program.
+
+# This readme file is not yet organised
